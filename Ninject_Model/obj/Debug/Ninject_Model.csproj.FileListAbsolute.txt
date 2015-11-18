@@ -1,0 +1,5 @@
+C:\Users\Guanghui Wang\Documents\Visual Studio 2013\Projects\Ninject_MVC_WebApi\Ninject_Model\bin\Debug\Ninject_Model.dll
+C:\Users\Guanghui Wang\Documents\Visual Studio 2013\Projects\Ninject_MVC_WebApi\Ninject_Model\bin\Debug\Ninject_Model.pdb
+C:\Users\Guanghui Wang\Documents\Visual Studio 2013\Projects\Ninject_MVC_WebApi\Ninject_Model\obj\Debug\Ninject_Model.csprojResolveAssemblyReference.cache
+C:\Users\Guanghui Wang\Documents\Visual Studio 2013\Projects\Ninject_MVC_WebApi\Ninject_Model\obj\Debug\Ninject_Model.dll
+C:\Users\Guanghui Wang\Documents\Visual Studio 2013\Projects\Ninject_MVC_WebApi\Ninject_Model\obj\Debug\Ninject_Model.pdb

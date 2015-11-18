@@ -1,0 +1,13 @@
+﻿@model IQueryable<Ninject_Model.Model.Product>
+
+@{
+    ViewBag.Title = "MvcDemo Index";
+}
+
+@foreach (var product in Model)
+{
+    <div style=" border-bottom :1px dashed silver ;">
+        <h3> @product.Name </h3>
+        <p> 价格：@product.Price </p>
+    </div>
+}

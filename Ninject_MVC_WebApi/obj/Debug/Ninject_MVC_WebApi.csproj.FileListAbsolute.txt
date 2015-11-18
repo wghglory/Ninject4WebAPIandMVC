@@ -1,0 +1,60 @@
+C:\Users\Guanghui Wang\Documents\Visual Studio 2013\Projects\Ninject_MVC_WebApi\Ninject_MVC_WebApi\bin\Ninject_MVC_WebApi.dll.config
+C:\Users\Guanghui Wang\Documents\Visual Studio 2013\Projects\Ninject_MVC_WebApi\Ninject_MVC_WebApi\bin\Ninject_MVC_WebApi.dll
+C:\Users\Guanghui Wang\Documents\Visual Studio 2013\Projects\Ninject_MVC_WebApi\Ninject_MVC_WebApi\bin\Ninject_MVC_WebApi.pdb
+C:\Users\Guanghui Wang\Documents\Visual Studio 2013\Projects\Ninject_MVC_WebApi\Ninject_MVC_WebApi\bin\Newtonsoft.Json.dll
+C:\Users\Guanghui Wang\Documents\Visual Studio 2013\Projects\Ninject_MVC_WebApi\Ninject_MVC_WebApi\bin\Ninject.dll
+C:\Users\Guanghui Wang\Documents\Visual Studio 2013\Projects\Ninject_MVC_WebApi\Ninject_MVC_WebApi\bin\Ninject_Model.dll
+C:\Users\Guanghui Wang\Documents\Visual Studio 2013\Projects\Ninject_MVC_WebApi\Ninject_MVC_WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\Guanghui Wang\Documents\Visual Studio 2013\Projects\Ninject_MVC_WebApi\Ninject_MVC_WebApi\bin\System.Web.Helpers.dll
+C:\Users\Guanghui Wang\Documents\Visual Studio 2013\Projects\Ninject_MVC_WebApi\Ninject_MVC_WebApi\bin\System.Web.Http.dll
+C:\Users\Guanghui Wang\Documents\Visual Studio 2013\Projects\Ninject_MVC_WebApi\Ninject_MVC_WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\Guanghui Wang\Documents\Visual Studio 2013\Projects\Ninject_MVC_WebApi\Ninject_MVC_WebApi\bin\System.Web.Mvc.dll
+C:\Users\Guanghui Wang\Documents\Visual Studio 2013\Projects\Ninject_MVC_WebApi\Ninject_MVC_WebApi\bin\System.Web.Razor.dll
+C:\Users\Guanghui Wang\Documents\Visual Studio 2013\Projects\Ninject_MVC_WebApi\Ninject_MVC_WebApi\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Guanghui Wang\Documents\Visual Studio 2013\Projects\Ninject_MVC_WebApi\Ninject_MVC_WebApi\bin\System.Web.Webpages.dll
+C:\Users\Guanghui Wang\Documents\Visual Studio 2013\Projects\Ninject_MVC_WebApi\Ninject_MVC_WebApi\bin\System.Web.Webpages.Razor.dll
+C:\Users\Guanghui Wang\Documents\Visual Studio 2013\Projects\Ninject_MVC_WebApi\Ninject_MVC_WebApi\bin\Ninject_Model.pdb
+C:\Users\Guanghui Wang\Documents\Visual Studio 2013\Projects\Ninject_MVC_WebApi\Ninject_MVC_WebApi\bin\Ninject.xml
+C:\Users\Guanghui Wang\Documents\Visual Studio 2013\Projects\Ninject_MVC_WebApi\Ninject_MVC_WebApi\bin\System.Web.Razor.xml
+C:\Users\Guanghui Wang\Documents\Visual Studio 2013\Projects\Ninject_MVC_WebApi\Ninject_MVC_WebApi\bin\System.Web.Webpages.xml
+C:\Users\Guanghui Wang\Documents\Visual Studio 2013\Projects\Ninject_MVC_WebApi\Ninject_MVC_WebApi\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Guanghui Wang\Documents\Visual Studio 2013\Projects\Ninject_MVC_WebApi\Ninject_MVC_WebApi\bin\System.Web.Webpages.Razor.xml
+C:\Users\Guanghui Wang\Documents\Visual Studio 2013\Projects\Ninject_MVC_WebApi\Ninject_MVC_WebApi\bin\System.Web.Helpers.xml
+C:\Users\Guanghui Wang\Documents\Visual Studio 2013\Projects\Ninject_MVC_WebApi\Ninject_MVC_WebApi\bin\System.Web.Mvc.xml
+C:\Users\Guanghui Wang\Documents\Visual Studio 2013\Projects\Ninject_MVC_WebApi\Ninject_MVC_WebApi\bin\Newtonsoft.Json.xml
+C:\Users\Guanghui Wang\Documents\Visual Studio 2013\Projects\Ninject_MVC_WebApi\Ninject_MVC_WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\Guanghui Wang\Documents\Visual Studio 2013\Projects\Ninject_MVC_WebApi\Ninject_MVC_WebApi\bin\System.Web.Http.xml
+C:\Users\Guanghui Wang\Documents\Visual Studio 2013\Projects\Ninject_MVC_WebApi\Ninject_MVC_WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\Guanghui Wang\Documents\Visual Studio 2013\Projects\Ninject_MVC_WebApi\Ninject_MVC_WebApi\obj\Debug\Ninject_MVC_WebApi.csprojResolveAssemblyReference.cache
+C:\Users\Guanghui Wang\Documents\Visual Studio 2013\Projects\Ninject_MVC_WebApi\Ninject_MVC_WebApi\obj\Debug\Ninject_MVC_WebApi.dll
+C:\Users\Guanghui Wang\Documents\Visual Studio 2013\Projects\Ninject_MVC_WebApi\Ninject_MVC_WebApi\obj\Debug\Ninject_MVC_WebApi.pdb
+C:\Users\Guanghui Wang\Documents\GitHub\Ninject4WebAPIandMVC\Ninject_MVC_WebApi\bin\Ninject_MVC_WebApi.dll.config
+C:\Users\Guanghui Wang\Documents\GitHub\Ninject4WebAPIandMVC\Ninject_MVC_WebApi\bin\Ninject_MVC_WebApi.dll
+C:\Users\Guanghui Wang\Documents\GitHub\Ninject4WebAPIandMVC\Ninject_MVC_WebApi\bin\Ninject_MVC_WebApi.pdb
+C:\Users\Guanghui Wang\Documents\GitHub\Ninject4WebAPIandMVC\Ninject_MVC_WebApi\bin\Newtonsoft.Json.dll
+C:\Users\Guanghui Wang\Documents\GitHub\Ninject4WebAPIandMVC\Ninject_MVC_WebApi\bin\Ninject.dll
+C:\Users\Guanghui Wang\Documents\GitHub\Ninject4WebAPIandMVC\Ninject_MVC_WebApi\bin\Ninject_Model.dll
+C:\Users\Guanghui Wang\Documents\GitHub\Ninject4WebAPIandMVC\Ninject_MVC_WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\Guanghui Wang\Documents\GitHub\Ninject4WebAPIandMVC\Ninject_MVC_WebApi\bin\System.Web.Helpers.dll
+C:\Users\Guanghui Wang\Documents\GitHub\Ninject4WebAPIandMVC\Ninject_MVC_WebApi\bin\System.Web.Http.dll
+C:\Users\Guanghui Wang\Documents\GitHub\Ninject4WebAPIandMVC\Ninject_MVC_WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\Guanghui Wang\Documents\GitHub\Ninject4WebAPIandMVC\Ninject_MVC_WebApi\bin\System.Web.Mvc.dll
+C:\Users\Guanghui Wang\Documents\GitHub\Ninject4WebAPIandMVC\Ninject_MVC_WebApi\bin\System.Web.Razor.dll
+C:\Users\Guanghui Wang\Documents\GitHub\Ninject4WebAPIandMVC\Ninject_MVC_WebApi\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Guanghui Wang\Documents\GitHub\Ninject4WebAPIandMVC\Ninject_MVC_WebApi\bin\System.Web.Webpages.dll
+C:\Users\Guanghui Wang\Documents\GitHub\Ninject4WebAPIandMVC\Ninject_MVC_WebApi\bin\System.Web.Webpages.Razor.dll
+C:\Users\Guanghui Wang\Documents\GitHub\Ninject4WebAPIandMVC\Ninject_MVC_WebApi\bin\Ninject_Model.pdb
+C:\Users\Guanghui Wang\Documents\GitHub\Ninject4WebAPIandMVC\Ninject_MVC_WebApi\bin\Ninject.xml
+C:\Users\Guanghui Wang\Documents\GitHub\Ninject4WebAPIandMVC\Ninject_MVC_WebApi\bin\System.Web.Razor.xml
+C:\Users\Guanghui Wang\Documents\GitHub\Ninject4WebAPIandMVC\Ninject_MVC_WebApi\bin\System.Web.Webpages.xml
+C:\Users\Guanghui Wang\Documents\GitHub\Ninject4WebAPIandMVC\Ninject_MVC_WebApi\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Guanghui Wang\Documents\GitHub\Ninject4WebAPIandMVC\Ninject_MVC_WebApi\bin\System.Web.Webpages.Razor.xml
+C:\Users\Guanghui Wang\Documents\GitHub\Ninject4WebAPIandMVC\Ninject_MVC_WebApi\bin\System.Web.Helpers.xml
+C:\Users\Guanghui Wang\Documents\GitHub\Ninject4WebAPIandMVC\Ninject_MVC_WebApi\bin\System.Web.Mvc.xml
+C:\Users\Guanghui Wang\Documents\GitHub\Ninject4WebAPIandMVC\Ninject_MVC_WebApi\bin\Newtonsoft.Json.xml
+C:\Users\Guanghui Wang\Documents\GitHub\Ninject4WebAPIandMVC\Ninject_MVC_WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\Guanghui Wang\Documents\GitHub\Ninject4WebAPIandMVC\Ninject_MVC_WebApi\bin\System.Web.Http.xml
+C:\Users\Guanghui Wang\Documents\GitHub\Ninject4WebAPIandMVC\Ninject_MVC_WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\Guanghui Wang\Documents\GitHub\Ninject4WebAPIandMVC\Ninject_MVC_WebApi\obj\Debug\Ninject_MVC_WebApi.csprojResolveAssemblyReference.cache
+C:\Users\Guanghui Wang\Documents\GitHub\Ninject4WebAPIandMVC\Ninject_MVC_WebApi\obj\Debug\Ninject_MVC_WebApi.dll
+C:\Users\Guanghui Wang\Documents\GitHub\Ninject4WebAPIandMVC\Ninject_MVC_WebApi\obj\Debug\Ninject_MVC_WebApi.pdb
